@@ -1,0 +1,41 @@
+
+.yellow {
+	background-color: yellow;
+}
+
+.lightblue {
+	background-color: lightblue;
+}
+
+#container {
+	/*border: 3px solid black;*/
+}
+
+#superman {
+	/*border: 3px solid red;*/
+}   
+
+* {
+	background-color: cadetblue;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
+
+#container {
+	display: inline;
+}
+
+.person_box {
+	width: 20%;
+	display: inline-block;
+	/*border: 2px solid black;*/
+}
+
+.dotted {
+	border: 5px dotted black;
+}
+
+
